@@ -153,7 +153,7 @@ min_date = hour_df["dteday"].min()
 max_date = hour_df["dteday"].max()
 
 with st.sidebar:
-    st.image("https://raw.githubusercontent.com/itsnayana/images/main/bikepic.jpg", caption="Pic From Google")
+    st.image("https://raw.githubusercontent.com/andizabrina21/images/main/bikepic.jpg", caption="Pic From Google")
     ':bike:'':bike:'':bike:'':bike:'':bike:'':bike:'':bike:'':bike:'':bike:'':bike:'':bike:'':bike:'':bike:'
     start_date, end_date = st.date_input(
         label='Rentang Waktu',min_value=min_date,
