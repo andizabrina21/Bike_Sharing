@@ -143,8 +143,8 @@ def create_user_segment_df(df):
     return user_segment_df
 
 
-day_df = pd.read_csv("data_day.csv")
-hour_df = pd.read_csv("data_hours.csv")
+day_df = pd.read_csv("data/data_day.csv")
+hour_df = pd.read_csv("data/data_hours.csv")
 
 day_df["dteday"] = pd.to_datetime(day_df["dteday"])
 hour_df["dteday"] = pd.to_datetime(hour_df["dteday"])
