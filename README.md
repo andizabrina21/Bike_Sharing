@@ -9,7 +9,7 @@ Dataset utama yang digunakan berkaitan dengan catatan historis selama dua tahun,
 
 ## Live Demo
 Akses dashboard online di Streamlit Cloud:
-[Klik di sini untuk melihat dashboard](https://ghxhsgieflpnnyazvugbzt.streamlit.app/)
+[Klik di sini untuk melihat dashboard](https://bikesharing-dashboardd.streamlit.app/)
 
 ## Jalankan di Lokal
 1. Clone repository
