@@ -12,11 +12,11 @@ Analisis dilakukan dengan menggunakan Python melalui Colab. Dari proses analisis
 - Terjadi kenaikan jumlah pengguna bike-sharing yang cukup signifikan dari tahun 2011 ke tahun 2012 yaitu sekitar 1 juta pengguna
 - Mayoritas pengguna bike-sharing melakukan penyewaan sepeda pada musim gugur, ketika cuaca sedang cerah, sedikit awan ataupun berawan sebagian.
 - Mayoritas pengguna bike-sharing melakukan penyewaan ketika hari kerja dan bukan hari libur
-Untuk lebih jelasnya dapat dilihat ![disini]
+Untuk lebih jelasnya dapat dilihat [disini](bike_sharing_analysis.ipynb).
 
 ## Live Demo
 Akses dashboard online di Streamlit Cloud:
-[Klik di sini untuk melihat dashboard](https://bikesharing-dashboardd.streamlit.app/)
+[Klik di sini untuk melihat dashboard](https://bikesharing-dashboardd.streamlit.app/).
 
 ## Jalankan di Lokal
 1. Clone repository
